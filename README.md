@@ -31,7 +31,6 @@ The goal was to identify, document, and prioritize bugs using real-world QA prac
 ---
 
 ## 📂 Repository Structure
-- `Bug_Report.xlsx` → Full bug report with repro steps & priorities  
 - `Bug_Report.pdf` → Quick view version  
 - `screenshots/` → Screenshots of critical issues  
 - `test-cases/` → Test cases executed during assignment  
