@@ -42,6 +42,7 @@ The goal was to identify, document, and prioritize bugs using real-world QA prac
 - Test Case Design (Google Sheets / Excel)
 - Bug Reporting & Prioritization (P0/P1/P2)
 - Chrome DevTools
+- Latest Tools Used
 
 ---
 
